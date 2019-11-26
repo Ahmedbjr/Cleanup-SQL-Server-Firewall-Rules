@@ -1,5 +1,5 @@
 # Cleanup-SQL-Server-Firewall-Rules
-Originally published on  [Microsoft Technet](https://gallery.technet.microsoft.com/scriptcenter/Delete-SQL-Server-Firewall-43f784e0) with over 500 downloads
+Originally published on  [Microsoft Technet](https://gallery.technet.microsoft.com/scriptcenter/Delete-SQL-Server-Firewall-43f784e0) with about 500 downloads
 
 ## Description
 
